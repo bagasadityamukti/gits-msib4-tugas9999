@@ -1,1 +1,2 @@
-# gits-msib4-tugas2
+- Bagas Aditya Mukti
+- Universitas Dian Nuswantoro
